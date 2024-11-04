@@ -534,7 +534,7 @@ a {
       box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     }
 
-    .subscribe {
+    .subscribe-btn {
       border-radius: 4px;
       padding: 8px 24px;
       width: 165px;
@@ -622,7 +622,7 @@ a {
   padding: 3px 0px;
 }
 
-.comment {
+.comment-form {
   font-weight: 400;
   font-size: 12px;
   line-height: 117%;
