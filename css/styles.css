@@ -640,7 +640,7 @@ a {
     fill: #fff
   }
 
-  .icon-btn {
+  .icon-top {
     position: absolute;
     left: 16px;
     top: 50%;
@@ -773,7 +773,7 @@ a {
   color:  #4d5ae5;;
 }
 
-.modal-btn {
+.modal-icon {
   display: block;
   min-width: 169px;
   height: 56px;
