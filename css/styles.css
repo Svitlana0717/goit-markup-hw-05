@@ -797,13 +797,17 @@ a {
 
 .modal-btn {
    font-weight: 500;
+   display: block;
+   min-width: 169px;
+   height: 56px;
+   background-color: #4D5AE5;
    line-height: 1.5;
    letter-spacing: 0.04em;
    color: #ffff;
    cursor: pointer;
    border-color: #4D5AE5;
-  border: none;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+   border: none;
+   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   .backround:not(.is-open) .modal {
