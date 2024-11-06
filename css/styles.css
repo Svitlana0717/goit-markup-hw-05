@@ -785,7 +785,7 @@ a {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.input:cheched + ladel > span {
+.input:cheched + label > span {
   border-color: #404BBF;
   fill: #f4f4fd;
   border: none;
