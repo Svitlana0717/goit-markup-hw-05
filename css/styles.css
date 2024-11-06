@@ -786,8 +786,8 @@ a {
 }
 
 .input:cheched + label > span {
-  border-color: #404BBF;
-  fill: #f4f4fd;
+  background-color: #404BBF;
+  fill: #FDFDFD;
   border: none;
 }
 
