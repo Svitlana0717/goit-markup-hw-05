@@ -640,7 +640,7 @@ a {
     fill: #fff
   }
 
-  .icon-modal {
+  .icon-btn {
     position: absolute;
     left: 16px;
     top: 50%;
@@ -765,7 +765,7 @@ a {
   fill: transparent; 
 }
 
-.input:focus + svg {
+.visually-hidden:focus + svg {
   fill: #4d5ae5
 }
 
@@ -789,7 +789,7 @@ a {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.input:cheched + label > span {
+.input:checked + label > span {
   background-color: #404bbf;
   border: none; 
   fill: #F4F4FD; 
