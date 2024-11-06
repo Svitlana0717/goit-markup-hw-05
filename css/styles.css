@@ -507,6 +507,9 @@ a {
     margin-bottom: 16px;
   }
 
+  .modal-fotter-btm {
+    margin-left: 80px;
+  }
 
   .text-footer {
     font-weight: 500;
@@ -590,7 +593,7 @@ a {
 
   .modal {
      position: absolute;
-     padding: 72px 24px 2px 24px;
+     padding: 72px 24px 24px 24px;
      top: 50%;
      border: 4px;
      left: 50%;
@@ -632,7 +635,12 @@ a {
     border: none;
   }
 
-  .icom-modal {
+  .form-button:hover > svg,
+  .form-button:focus > svg {
+    fill: #fff
+  }
+
+  .icon-modal {
     position: absolute;
     left: 16px;
     top: 50%;
