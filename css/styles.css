@@ -670,10 +670,7 @@ a {
   }
 
 .form-container {
-  padding: 16px;
   gap: 8px;
-  width: 360px;
-  height: 58px;
   margin-bottom: 8px; 
 }
 
@@ -803,6 +800,7 @@ a {
    font-weight: 500;
    display: block;
    min-width: 169px;
+   margin: 0 auto;
    height: 56px; 
    background-color: #4D5AE5;
    line-height: 1.5;
